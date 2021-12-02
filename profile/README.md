@@ -1,6 +1,4 @@
-# MQTT
-
-![MQTT logo](https://github.com/mqtt/mqttorg-graphics/blob/master/mqtt-logo-250.png)
+# ![MQTT logo](https://github.com/mqtt/mqttorg-graphics/blob/master/mqtt-logo-250.png)
 
 MQTT is designed as an extremely lightweight publish/subscribe messaging transport that is ideal for connecting remote devices, with a small code footprint and using minimal network bandwidth.
 
